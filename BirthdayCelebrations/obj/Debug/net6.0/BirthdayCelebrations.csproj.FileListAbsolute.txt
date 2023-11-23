@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfo.cs
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.exe
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.deps.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.runtimeconfig.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\refint\BirthdayCelebrations.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.genruntimeconfig.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BirthdayCelebrations\obj\Debug\net6.0\ref\BirthdayCelebrations.dll

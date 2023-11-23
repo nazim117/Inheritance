@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\net6.0\DefineInterfaceIPerson.exe
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\net6.0\DefineInterfaceIPerson.deps.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\net6.0\DefineInterfaceIPerson.runtimeconfig.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\net6.0\DefineInterfaceIPerson.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\bin\Debug\net6.0\DefineInterfaceIPerson.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.AssemblyInfo.cs
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\refint\DefineInterfaceIPerson.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\DefineInterfaceIPerson.genruntimeconfig.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\DefineInterfaceIPerson\obj\Debug\net6.0\ref\DefineInterfaceIPerson.dll

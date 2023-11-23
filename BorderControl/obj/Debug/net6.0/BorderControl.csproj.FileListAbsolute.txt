@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
