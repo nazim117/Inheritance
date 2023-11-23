@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\bin\Debug\net6.0\FoodShortage.exe
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\bin\Debug\net6.0\FoodShortage.deps.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\bin\Debug\net6.0\FoodShortage.runtimeconfig.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\bin\Debug\net6.0\FoodShortage.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\bin\Debug\net6.0\FoodShortage.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfo.cs
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\refint\FoodShortage.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\FoodShortage.genruntimeconfig.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\FoodShortage\obj\Debug\net6.0\ref\FoodShortage.dll

@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.exe
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.deps.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.runtimeconfig.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.AssemblyInfo.cs
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\refint\MultipleImplementation.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.genruntimeconfig.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\MultipleImplementation\obj\Debug\net6.0\ref\MultipleImplementation.dll

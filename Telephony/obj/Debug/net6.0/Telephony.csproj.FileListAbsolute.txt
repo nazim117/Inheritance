@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+C:\SoftUni-OOP\DefineInterfaceIPerson\Telephony\obj\Debug\net6.0\ref\Telephony.dll
